@@ -32,6 +32,7 @@
   * [7.1 基本使用](7.-file-api/7.1-du-qu-dang-an.md)
   * [7.2 事件監聽](7.-file-api/7.2-shi-jian-jian-ting.md)
   * [7.3 應用：jquery ajax 上傳檔案並顯示進度條](7.-file-api/7.3-dang-an-shang-chuan-jin-du-tiao.md)
+  * [7.4 解析 CSV](7.-file-api/7.4-jie-xi-csv.md)
 * [8. Drag and Drop](8.-drag-and-drop/README.md)
   * [8.1 簡介及主要事件說明](8.-drag-and-drop/8.1-jian-jie-ji-api-xiang-guan-shui-ming.md)
   * [8.2 練習 - 拖曳元素](8.-drag-and-drop/8.2-fan-li-tuo-ye-yuan-su.md)
