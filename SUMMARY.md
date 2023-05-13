@@ -37,5 +37,5 @@
 * [9. Web Workers](10.-web-workers/README.md)
   * [9.1 簡介](10.-web-workers/10.1-guan-nian.md)
   * [9.2 Dedicated Worker](10.-web-workers/10.2-xiang-guan-api-ji-fan-li.md)
-* [11. 作業](11.-zuo-ye.md)
-* [12. 參考資料](12.-can-kao-zi-liao.md)
+* [10. 作業](11.-zuo-ye.md)
+* [11. 參考資料](12.-can-kao-zi-liao.md)
