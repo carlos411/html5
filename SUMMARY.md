@@ -25,7 +25,7 @@
   * [5.2 事件監聽](6.-fullscreen/6.2-shi-jian-jian-ting.md)
 * [6. File](7.-file-api/README.md)
   * [6.1 基本使用](7.-file-api/7.1-du-qu-dang-an.md)
-  * [6.2 應用：jquery ajax 上傳檔案並顯示進度條](7.-file-api/7.2-dang-an-shang-chuan-jin-du-tiao.md)
+  * [6.2 參考：jquery ajax 上傳檔案並顯示進度條](7.-file-api/7.2-dang-an-shang-chuan-jin-du-tiao.md)
   * [6.3 解析 CSV](7.-file-api/7.3-jie-xi-csv.md)
 * [7. Drag and Drop](8.-drag-and-drop/README.md)
   * [7.1 簡介及主要事件說明](8.-drag-and-drop/8.1-jian-jie-ji-api-xiang-guan-shui-ming.md)
