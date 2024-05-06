@@ -22,7 +22,6 @@
   * [4.6 練習](5.-web-storage/5.6-lian-xi.md)
 * [5. Fullscreen](6.-fullscreen/README.md)
   * [5.1 API 及相關說明](6.-fullscreen/6.1-quan-ying-mu-mo-shi.md)
-  * [5.2 事件監聽](6.-fullscreen/6.2-shi-jian-jian-ting.md)
 * [6. File](7.-file-api/README.md)
   * [6.1 基本使用](7.-file-api/7.1-du-qu-dang-an.md)
   * [6.2 參考：jquery ajax 上傳檔案並顯示進度條](7.-file-api/7.2-dang-an-shang-chuan-jin-du-tiao.md)
