@@ -32,6 +32,7 @@
 * [8. Geolocation](9.-geolocation/README.md)
   * [8.1 簡介](9.-geolocation/9.1-jian-jie-ji-xiang-guan-api-shui-ming.md)
   * [8.2 相關 API 及範例](9.-geolocation/9.2-xiang-guan-api-ji-fan-li.md)
+  * [相關 API](9.-geolocation/xiang-guan-api.md)
   * [Copy of 8.2 相關 API 及範例](9.-geolocation/9.2-xiang-guan-api-ji-fan-li-1.md)
 * [9. Web Workers](10.-web-workers/README.md)
   * [9.1 簡介](10.-web-workers/10.1-guan-nian.md)
