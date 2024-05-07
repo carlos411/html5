@@ -172,3 +172,5 @@ navigator.geolocation.clearWatch(watcherID);
 
 範例：(可試著切換分頁，即可看到資訊改變)，也可用手機開啟這個頁面，在戶外走的時候，觀察看是否有更新資料：
 
+{% embed url="https://codepen.io/carlos411/pen/gOpXReK" %}
+
